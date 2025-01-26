@@ -108,7 +108,8 @@
 ---
 
 ## 📸 Screenshots  
-_Add screenshots or GIFs here to showcase the platform's functionality._  
+![Cut & Comb](/gh-assets/barber.png)
+ 
 
 ---
 
@@ -116,8 +117,8 @@ _Add screenshots or GIFs here to showcase the platform's functionality._
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/cut-and-comb.git
-   cd cut-and-comb
+   git clone https://github.com/sudoyasir/multi-vendor-barber-shop
+   cd multi-vendor-barber-shop
    ```
 
 2. Install dependencies for both frontend and backend:  
