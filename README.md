@@ -108,7 +108,7 @@
 ---
 
 ## 📸 Screenshots  
-![Cut & Comb](/gh-assets/barber.png)
+<img src="/gh-assets/barber.png" alt="Cut & Comb" width="50%">
  
 
 ---
